@@ -22,22 +22,20 @@ I offer a range of services to meet your needs:
 - Cross-Platform Apps.
 - Native Apps on iOS.
 
-## 📬 Let's Collaborate
-
-Reach out to discuss your project or inquire about custom offers:
-
-- 📧 Email: iktidar2978@gmail.com
-- 💼 Fiverr Profile: [Fiverr Profile](https://www.fiverr.com/azmineiktidar)
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/azmineiktidar/)
-
-## 📝 Open for Collaborations
+## 📬 Let's Collaborate | 📝 Open for Collaborations
 
 If you're seeking a reliable and passionate freelancer, don't hesitate to contact me. Together, we can bring your vision to life!
+Reach out to discuss your project or inquire about custom offers:
 
-## 🌐 Connect with Me
+- 📧 Email: [![Email](https://img.shields.io/badge/Mail-%e3392b.svg?logo=Gmail&logoColor=white)](mailto:iktidar2978@gmail.com)
+  
+- 💼 Fiverr Profile: [![Fiverr](https://img.shields.io/badge/Fiverr-%1DBF73.svg?logo=Fiverr&logoColor=white)](https://www.fiverr.com/azmineiktidar)
 
-- [Telegram](t.me/electron2978)
-- [WhatsApp](https://wa.me/qr/ILZPHY5XD5LYM1)
+## 🌐 Connect with Me | Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmineiktidar/)
+[![WhatsApp](https://img.shields.io/badge/WhatsAppp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/qr/ILZPHY5XD5LYM1)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/electron2978)
 
 ## 🤝 Let's create something extraordinary together!
 
@@ -47,9 +45,6 @@ If you're seeking a reliable and passionate freelancer, don't hesitate to contac
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=azmine-iktidar&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azmine-iktidar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmineiktidar/)
 
 # 💻 Tech Stack
 
