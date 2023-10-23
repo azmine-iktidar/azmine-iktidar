@@ -34,7 +34,7 @@ Reach out to discuss your project or inquire about custom offers:
 ## 🌐 Connect with Me | Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmineiktidar/)
-[![WhatsApp](https://img.shields.io/badge/WhatsAppp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/qr/ILZPHY5XD5LYM1)
+[![WhatsApp](https://img.shields.io/badge/WhatsAppp-25D366?logo=whatsapp&logoColor=white)](https://wa.link/6elawo)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/electron2978)
 
 ## 🤝 Let's create something extraordinary together!
