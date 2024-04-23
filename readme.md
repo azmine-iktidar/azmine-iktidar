@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm Iktidar, a dedicated and experienced freelance Web Developer, Web Designer, and Graphic Designer. With a passion for creative projects, I'm here to transform your ideas into reality. My expertise spans Web Development, Web Design, Web Animation, App Development, and a keen eye for detail. I'm committed to delivering exceptional results that exceed your expectations.
+I'm Iktidar, a dedicated and experienced freelance Web Developer, Web Designer, and Graphic Designer. With a passion for creative projects, I will transform your ideas into reality. My expertise spans Web Development, Web Design, Web Animation, App Development, and a keen eye for detail. I'm committed to delivering exceptional results that exceed your expectations.
 
 ## 🌟 Why Work with Me
 
