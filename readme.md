@@ -82,9 +82,5 @@ I leverage a diverse range of technologies to deliver top-notch solutions:
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=azmine-iktidar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💰 Support My Work
 
-If you appreciate my work and want to support future projects, consider buying me a coffee:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iktidar2978)
 
